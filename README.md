@@ -3,7 +3,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Wesley de Araujo Teixeira, tenho 27 anos e sou natural do Ceará. estudo programação há mais de 2 anos, faço alguns freelancers desde landingpages como sites modernos. Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. 
+Me chamo Wesley de Araujo Teixeira, tenho 27 anos e sou natural do Ceará. estudo programação há mais de 2 anos, faço alguns freelancers desde landing-pages até sites modernos. Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. 
 
 ### 🤖 Linguagens e Tecnologias
 
